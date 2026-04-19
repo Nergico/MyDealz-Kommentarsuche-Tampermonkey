@@ -1,4 +1,4 @@
-**MyDealz Kommentar-Volltextsuche 🔍**
+**MyDealz Kommentar-Volltextsuche 🔍**  
 Dieses Skript rüstet eine extrem praktische Funktion für MyDealz nach: Eine echte Volltextsuche für Kommentare innerhalb eines Deals oder einer Diskussion.  
 
 Wer MyDealz kennt, weiß, bei beliebten Deals mit hunderten Antworten dauert es oft ewig, bestimmte Informationen zu finden. Dieses Skript löst das Problem, indem es alle Kommentare ausliest und übersichtlich aufbereitet.  
