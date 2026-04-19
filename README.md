@@ -13,7 +13,7 @@ Dies ist die aktuellste und umfangreichste Version. Sie fügt neben der Kommenta
 Besonderheit: Bietet schnelle Klick-Filter (z. B. "Letzte 24h", "1+ Reactions") und eine extrem übersichtliche Mini-Ansicht für gefundene Kommentare.  
 
 **🔹 Variante 2: Tab-Suche (Ergebnisse im neuen Fenster)**  
-Diese Version rüstet eine klassische Suchleiste direkt über den Kommentaren nach. Sobald du einen Begriff eingibst und auf Suchen klickst, öffnet sich ein separater Tab/Fenster mit den Ergebnissen.
+Diese Version rüstet eine klassische Suchleiste direkt über den Kommentaren nach. Sobald du einen Begriff eingibst und auf Suchen klickst, öffnet sich ein separater Tab/Fenster mit den Ergebnissen.  
 Besonderheit: Die MyDealz-Seite selbst bleibt übersichtlich, da die eigentliche Suche und die Ergebnisse in einem eigenen Bereich stattfinden.  
 
 **🛠️ Installation**  
