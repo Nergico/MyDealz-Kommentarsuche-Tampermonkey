@@ -1,10 +1,12 @@
 **MyDealz Kommentar-Volltextsuche 🔍**
 Dieses Skript rüstet eine extrem praktische Funktion für MyDealz nach: Eine echte Volltextsuche für Kommentare innerhalb eines Deals oder einer Diskussion.  
 
-Wer MyDealz kennt, weiß: Bei beliebten Deals mit hunderten Antworten dauert es oft ewig, bestimmte Informationen zu finden. Dieses Skript löst das Problem, indem es alle Kommentare ausliest und übersichtlich aufbereitet.  
+Wer MyDealz kennt, weiß, bei beliebten Deals mit hunderten Antworten dauert es oft ewig, bestimmte Informationen zu finden. Dieses Skript löst das Problem, indem es alle Kommentare ausliest und übersichtlich aufbereitet.  
 
-Du hast die Wahl zwischen zwei Installationswegen: Dauerhaft über Tampermonkey oder flexibel als Lesezeichen (Bookmarklet).  
-**✨ Hauptfunktionen**
+Du hast die Wahl zwischen zwei Installationswegen:  
+Dauerhaft über Tampermonkey oder flexibel als Lesezeichen (Bookmarklet).  
+
+**✨ Hauptfunktionen**  
 Intelligente Prüfung: Das Skript checkt automatisch, ob du dich auf einer gültigen Deal- oder Diskussionsseite befindest.  
 
 Neues Übersichtsfenster: Die Suchergebnisse werden nicht quetschend in die MyDealz-Seite integriert, sondern öffnen sich übersichtlich in einem neuen Fenster/Tab.  
