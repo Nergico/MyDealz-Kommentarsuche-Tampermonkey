@@ -5,7 +5,7 @@ Vorteil der Tampermonkey-Version: Im Gegensatz zur Lesezeichen-Variante ist das 
 
 **Du suchst die Version ohne Browser-Erweiterung? > Hier geht es zum Repository für die Lesezeichen / Bookmarklet Variante:** https://github.com/Nergico/MyDealz-Kommentarsuche-mit-Lesezeichen  
 
-** Die 2 Varianten (Wähle deine bevorzugte Version)**  
+**Die 2 Varianten (Wähle deine bevorzugte Version)**  
 Ich biete hier zwei verschiedene Ansätze an. Wähle die Version, die besser zu deinem Workflow passt.  
 
 **🔹 Variante 1: Pro-Suche (Modern & Inline)**  
